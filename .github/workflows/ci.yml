@@ -21,6 +21,10 @@ jobs:
     - name: Run build
       run: npm run build
 
+    - name: Run tests
+      run: npm test
+    
+
     - name: Deploy to Vercel
       run: |
         echo "Deploying to Vercel..."
