@@ -1,0 +1,76 @@
+{"level":"info","message":"Scraping URL: https://apple.com","timestamp":"2024-08-18T14:16:13.060Z"}
+{"level":"info","message":"Scraping successful","timestamp":"2024-08-18T14:16:13.378Z"}
+{"level":"info","message":"Scraping URL: https://en.wikipedia.org","timestamp":"2024-08-18T14:26:18.822Z"}
+{"level":"info","message":"Scraping successful","timestamp":"2024-08-18T14:26:19.209Z"}
+{"level":"info","message":"Scraping URL: htps://apple.com","timestamp":"2024-08-18T14:27:10.776Z"}
+{"level":"error","message":"Error scraping the website: Unsupported protocol htps:","timestamp":"2024-08-18T14:27:10.779Z"}
+{"level":"info","message":"Scraping URL: https://apple.com","timestamp":"2024-08-18T14:28:00.399Z"}
+{"level":"info","message":"Scraping successful","timestamp":"2024-08-18T14:28:00.790Z"}
+{"level":"info","message":"Scraping URL: https://amazon.com","timestamp":"2024-08-18T15:22:31.120Z"}
+{"level":"info","message":"Scraping successful","timestamp":"2024-08-18T15:22:31.412Z"}
+{"level":"info","message":"Scraping URL: https://yahoo.news","timestamp":"2024-08-18T15:23:01.462Z"}
+{"level":"info","message":"Scraping URL: https://yahoo.news","timestamp":"2024-08-18T15:23:04.006Z"}
+{"level":"info","message":"Scraping URL: https://yahoo.news","timestamp":"2024-08-18T15:23:04.784Z"}
+{"level":"info","message":"Scraping URL: https://yahoo.news","timestamp":"2024-08-18T15:23:05.568Z"}
+{"level":"info","message":"Scraping URL: https://yahoo.com","timestamp":"2024-08-18T15:23:10.428Z"}
+{"level":"info","message":"Scraping successful","timestamp":"2024-08-18T15:23:11.476Z"}
+{"level":"info","message":"Scraping URL: https://yahoo.com","timestamp":"2024-08-18T15:23:11.483Z"}
+{"level":"info","message":"Scraping successful","timestamp":"2024-08-18T15:23:12.281Z"}
+{"level":"error","message":"Error scraping the website: connect ETIMEDOUT 3.33.139.32:443","timestamp":"2024-08-18T15:24:16.639Z"}
+{"level":"error","message":"Error scraping the website: connect ETIMEDOUT 3.33.139.32:443","timestamp":"2024-08-18T15:24:19.012Z"}
+{"level":"error","message":"Error scraping the website: connect ETIMEDOUT 3.33.139.32:443","timestamp":"2024-08-18T15:24:19.789Z"}
+{"level":"error","message":"Error scraping the website: connect ETIMEDOUT 3.33.139.32:443","timestamp":"2024-08-18T15:24:20.572Z"}
+{"level":"info","message":"Scraping URL: https://yahoo.com","timestamp":"2024-08-18T15:24:32.340Z"}
+{"level":"info","message":"Scraping successful","timestamp":"2024-08-18T15:24:33.416Z"}
+{"level":"info","message":"Scraping URL: https://yahoo.com","timestamp":"2024-08-18T15:24:33.421Z"}
+{"level":"info","message":"Scraping successful","timestamp":"2024-08-18T15:24:34.249Z"}
+{"level":"info","message":"Scraping URL: https://example.com","timestamp":"2024-08-18T15:42:52.190Z"}
+{"level":"info","message":"Scraping successful","timestamp":"2024-08-18T15:42:52.375Z"}
+{"level":"info","message":"Scraping URL: https://apple.com","timestamp":"2024-08-18T15:46:12.399Z"}
+{"level":"info","message":"Scraping successful","timestamp":"2024-08-18T15:46:12.672Z"}
+{"level":"info","message":"Scraping URL: https://example.com","timestamp":"2024-08-18T15:46:38.633Z"}
+{"level":"info","message":"Scraping successful","timestamp":"2024-08-18T15:46:38.822Z"}
+{"level":"info","message":"Scraping URL: https://example.com","timestamp":"2024-08-18T15:51:03.143Z"}
+{"level":"info","message":"Scraping successful","timestamp":"2024-08-18T15:51:03.336Z"}
+{"level":"info","message":"Scraping URL: https://example.com","timestamp":"2024-08-18T15:52:09.202Z"}
+{"level":"info","message":"Scraping successful","timestamp":"2024-08-18T15:52:09.395Z"}
+{"level":"info","message":"Scraping URL: https://example.com","timestamp":"2024-08-18T15:56:16.719Z"}
+{"level":"info","message":"Scraping successful","timestamp":"2024-08-18T15:56:16.911Z"}
+{"level":"info","message":"Scraping URL: https://example.com","timestamp":"2024-08-18T16:02:29.697Z"}
+{"level":"info","message":"Scraping successful","timestamp":"2024-08-18T16:02:29.895Z"}
+{"level":"info","message":"Scraping URL: https://en.wikipedia.org","timestamp":"2024-08-18T16:02:45.862Z"}
+{"level":"info","message":"Scraping successful","timestamp":"2024-08-18T16:02:46.213Z"}
+{"level":"info","message":"Scraping URL: https://en.wikipedia.org","timestamp":"2024-08-18T16:11:31.924Z"}
+{"level":"info","message":"Scraping successful","timestamp":"2024-08-18T16:11:32.298Z"}
+{"level":"info","message":"Scraping URL: https://en.wikipedia.org","timestamp":"2024-08-18T16:14:42.130Z"}
+{"level":"info","message":"Scraping successful","timestamp":"2024-08-18T16:14:42.509Z"}
+{"level":"info","message":"Scraping URL: https://en.wikipedia.com","timestamp":"2024-08-18T16:15:43.993Z"}
+{"level":"info","message":"Scraping successful","timestamp":"2024-08-18T16:15:44.581Z"}
+{"level":"info","message":"Scraping URL: https://en.wikipedia.org","timestamp":"2024-08-18T16:18:33.177Z"}
+{"level":"info","message":"Scraping successful","timestamp":"2024-08-18T16:18:33.560Z"}
+{"level":"info","message":"Scraping URL: https://en.wikipedia.org","timestamp":"2024-08-18T16:18:33.587Z"}
+{"level":"info","message":"Scraping successful","timestamp":"2024-08-18T16:18:33.819Z"}
+{"level":"info","message":"Scraping URL: https://en.wikipedia.org","timestamp":"2024-08-18T16:30:14.846Z"}
+{"level":"info","message":"Scraping successful","timestamp":"2024-08-18T16:30:15.195Z"}
+{"level":"info","message":"Scraping URL: https://en.wikipedia.org","timestamp":"2024-08-18T16:40:07.394Z"}
+{"level":"info","message":"Scraping successful","timestamp":"2024-08-18T16:40:07.741Z"}
+{"level":"info","message":"Scraping URL: https://en.wikipedia.org","timestamp":"2024-08-18T16:47:38.716Z"}
+{"level":"info","message":"Scraping successful","timestamp":"2024-08-18T16:47:39.112Z"}
+{"level":"info","message":"Scraping URL: https://en.wikipedia.org","timestamp":"2024-08-18T16:50:59.746Z"}
+{"level":"info","message":"Scraping successful","timestamp":"2024-08-18T16:51:00.110Z"}
+{"level":"info","message":"Scraping URL: https://apple.com","timestamp":"2024-08-18T16:51:36.237Z"}
+{"level":"info","message":"Scraping successful","timestamp":"2024-08-18T16:51:36.615Z"}
+{"level":"info","message":"Scraping URL: https://apple.com","timestamp":"2024-08-18T16:51:49.245Z"}
+{"level":"info","message":"Scraping successful","timestamp":"2024-08-18T16:51:49.507Z"}
+{"level":"info","message":"Scraping URL: https://apple.com","timestamp":"2024-08-18T16:51:50.373Z"}
+{"level":"info","message":"Scraping successful","timestamp":"2024-08-18T16:51:50.617Z"}
+{"level":"info","message":"Scraping URL: https://apple.com","timestamp":"2024-08-18T16:52:10.366Z"}
+{"level":"info","message":"Scraping successful","timestamp":"2024-08-18T16:52:10.688Z"}
+{"level":"info","message":"Scraping URL: https://laliga.com","timestamp":"2024-08-18T16:53:33.564Z"}
+{"level":"info","message":"Scraping URL: https://laliga.com","timestamp":"2024-08-18T16:53:34.892Z"}
+{"level":"info","message":"Scraping successful","timestamp":"2024-08-18T16:53:35.517Z"}
+{"level":"info","message":"Scraping successful","timestamp":"2024-08-18T16:53:35.670Z"}
+{"level":"info","message":"Scraping URL: https://laliga.com","timestamp":"2024-08-18T16:53:36.331Z"}
+{"level":"info","message":"Scraping successful","timestamp":"2024-08-18T16:53:37.100Z"}
+{"level":"info","message":"Scraping URL: https://laliga.com","timestamp":"2024-08-18T16:53:37.372Z"}
+{"level":"info","message":"Scraping successful","timestamp":"2024-08-18T16:53:38.124Z"}

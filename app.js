@@ -1,14 +1,25 @@
 require('dotenv').config();
 const express = require('express');
 const bodyParser = require('body-parser');
+import morgan from 'morgan';
+import logger from '@/utils/logger';
 const connectDB = require('./utils/db');
 const ScrapedData = require('./models/ScrapedData');
 const scrapeWebsite = require('./scraper');  
 
 const app = express();
 
+//Middleware
 app.use(bodyParser.urlencoded({ extended: true }));
+app.use(morgan('combined', { stream: { write: message => logger.info(message.trim()) } })); // Log HTTP requests
 app.set('view engine', 'ejs');
+app.use((err, req, res, next) => {
+    logger.error(`Unhandled Error: ${err.message}`);
+    res.status(500).json({ message: 'Internal Server Error' });
+  });
+
+//Routes
+app.use('/api/scrape', scrapeRouter);
 
 connectDB();
 
