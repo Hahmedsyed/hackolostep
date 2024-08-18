@@ -12,6 +12,10 @@ app.set('view engine', 'ejs');
 
 connectDB();
 
+app.get('/', (req, res) => {
+    res.render('index');
+});
+
 app.post('/scrape', async (req, res) => {
     const url = req.body.url;
 
