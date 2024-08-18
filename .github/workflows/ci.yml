@@ -1,15 +1,17 @@
-name: Next.js CI/CD
+name: Deploying Scraping Website
 
 on:
   push:
     branches: [ main ]
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
+    - name: Checkout code
+      uses: actions/checkout@v2
+    
     - name: Set up Node.js
       uses: actions/setup-node@v2
       with:
@@ -24,8 +26,9 @@ jobs:
     - name: Run tests
       run: npm test
     
-
     - name: Deploy to Vercel
+      env:
+        VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+        VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
       run: |
-        echo "Deploying to Vercel..."
-        # Add actual deployment commands here
+         npx vercel --prod --token=$VERCEL_TOKEN --project=$VERCEL_PROJECT_ID
