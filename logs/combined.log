@@ -74,3 +74,7 @@
 {"level":"info","message":"Scraping successful","timestamp":"2024-08-18T16:53:37.100Z"}
 {"level":"info","message":"Scraping URL: https://laliga.com","timestamp":"2024-08-18T16:53:37.372Z"}
 {"level":"info","message":"Scraping successful","timestamp":"2024-08-18T16:53:38.124Z"}
+{"level":"info","message":"Scraping URL: htps://apple.com","timestamp":"2024-08-18T19:33:01.188Z"}
+{"level":"error","message":"Error scraping the website: Unsupported protocol htps:","timestamp":"2024-08-18T19:33:01.190Z"}
+{"level":"info","message":"Scraping URL: https://apple.com","timestamp":"2024-08-18T19:33:07.779Z"}
+{"level":"info","message":"Scraping successful","timestamp":"2024-08-18T19:33:08.106Z"}
